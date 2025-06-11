@@ -93,10 +93,11 @@ Test Case Execution Summary:<br/>
 •	**Test Case 6:** Wrote 0xFEEDFACE to address 0x70 and confirmed successful read.<br/> Status: Passed<br/>
 •	**Test Case 7:** Verified writing and reading 0xAAAAAAAA to/from address 0x80.<br/> Status: Passed<br/>
 ## KEY CONTRIBUTORS
-1. Chandan Kumar N S
-2. Chandan S
-3. Deekshith G S
-4. Shivashankarayya Mathad
+1. Arun M
+2. Chandan Kumar N S
+3. Chandan S
+4. Deekshith G S
+5. Shivashankarayya Mathad
 ## REFERENCES
 * N.Venkateswara Rao, PV Chandrika, Abhishek Kumar and Sowmya Reddy,“ Design of AMBA based AHB2APB protocol for efficient utilization of AHB and APB”, International Research Journal of Engineering and Technology (IRJET), Volume 07, Issue 03, pp. 2395- 0072, 2020.
 * Vaishnavi R.K, Bindu.S and Sheik Chandbasha, “Design and Verification of APB Protocol by using System Verilog and Universal Verification Methodology”, International Research Journal of Engineering and Technology (IRJET), Volume 06, Issue 06, pp. 2395- 0072, 2019.
